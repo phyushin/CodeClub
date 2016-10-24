@@ -9,6 +9,8 @@ a program that out puts a string:
   customers = Hash.new()
   customers["paulw@leighhack.org"] ="PaulW"
   customers["alexh@leighhack.org"] = "AlexH"
-  customers.each { |email,cust| puts "hello, #{cust} im going to send you and email to #{email}"}
+  customers.each do
+    |email,cust| puts "hello, #{cust} im going to send you and email to #{email}"
+  end
 
 ```
