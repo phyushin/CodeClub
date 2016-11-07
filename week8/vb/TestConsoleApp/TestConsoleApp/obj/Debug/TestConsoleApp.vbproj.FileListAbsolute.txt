@@ -1,0 +1,10 @@
+A:\Dev\codeclub_phyushin\week8\vb\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+A:\Dev\codeclub_phyushin\week8\vb\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+A:\Dev\codeclub_phyushin\week8\vb\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+A:\Dev\codeclub_phyushin\week8\vb\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.xml
+A:\Dev\codeclub_phyushin\week8\vb\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.vbprojResolveAssemblyReference.cache
+A:\Dev\codeclub_phyushin\week8\vb\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.Resources.resources
+A:\Dev\codeclub_phyushin\week8\vb\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.vbproj.GenerateResource.Cache
+A:\Dev\codeclub_phyushin\week8\vb\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+A:\Dev\codeclub_phyushin\week8\vb\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.xml
+A:\Dev\codeclub_phyushin\week8\vb\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
