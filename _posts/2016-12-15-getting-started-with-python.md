@@ -17,7 +17,7 @@ Much like Ruby, Python is _softly typed_ meaning that the variable infer their t
 rather than re-invent the wheel and/or make a hash of introducing you to Python I'll point you at [CodeCademy][3] and suggest that you have a look at their Python course - they've got a ton of courses but for Code Club we're only interested in the Python course.
 
 Once you've completed the Python course on [CodeCademy][3] you'll be ready to go!
-there are some [useful guides][4] for how best to format you're code and best practices that you should also check out
+there are some [useful guides][4] for how best to format your code and best practices that you should also check out
 and if you're feeling _really_ brave why not try out some of the code katas at [CodeWars][5] and don't worry that I only mentioned where to download python and atom - that's for next week ;-)
 
 Pw
