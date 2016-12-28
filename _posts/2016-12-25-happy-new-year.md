@@ -18,7 +18,7 @@ I've saved the file name as calc.py
 ```python
 class Calculator:
 
-    def Add(x, y):
+    def Add (x, y):
         return x + y
 
     def Subtract (x, y):
