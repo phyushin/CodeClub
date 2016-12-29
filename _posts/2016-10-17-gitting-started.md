@@ -22,7 +22,7 @@ but back to GitHub ... or more specifically Git <br />
  Git
 ---
 Git is one of many version control systems out there - you may wonder _"why are we using Git instead of [insert other VCS here]>"_ mainly because using Git allows us to use [GitHub][2] and the [GitHub desktop client][3]
-so once you've created an account on Github and logged into the Desktop client you should see something like ![Github Desktop Home screen]({{ site.url }}/images/git_images/01.GitHub_Home.png)
+so once you've created an account on Github and logged into the Desktop client you should see something like ![Github Desktop Home screen]({{ site.url }}/images/git_images/01_GitHub_Home.png)
 
 The Breakdown
 ---
@@ -35,7 +35,7 @@ The Breakdown
 7. This drop down allows the user to create  anew branch from the code that's currently in the local repository - this is equivalent (ish) to ``` git checkout -b "name_of_branch" ``` in the command line
 
 once we've made our changes the home screen should look like this:
-![Github Desktop Home screen]({{ site.url }}/images/git_images/02.GitHub_Commit_Changes.png)
+![Github Desktop Home screen]({{ site.url }}/images/git_images/02_GitHub_Commit_Changes.png)
 
 1. As you can see the branch is indicated here
 2. Shows that a file has been added (since the last commit on the branch)
@@ -44,7 +44,7 @@ once we've made our changes the home screen should look like this:
 5. Shows a summary
 6. Shows an expanded description
 7. Is the button to commit the latest branch
-8. Push the Sync button 
+8. Push the Sync button
 
 [1]:https://www.meetup.com/
 [2]:https://github.com
