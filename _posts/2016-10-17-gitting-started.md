@@ -22,7 +22,7 @@ but back to GitHub ... or more specifically Git <br />
  Git
 ---
 Git is one of many version control systems out there - you may wonder _"why are we using Git instead of [insert other VCS here]>"_ mainly because using Git allows us to use [GitHub][2] and the [GitHub desktop client][3]
-so once you've created an account on Github and logged into the Desktop client you should see something like ![Github Desktop Home screen]({{ site.url }}/images/git_images/codeclub/01_GitHub_Home.png)
+so once you've created an account on Github and logged into the Desktop client you should see something like ![Github Desktop Home screen]({{ site.url }}/codeclub/images/git_images/01_GitHub_Home.png)
 
 The Breakdown
 ---
