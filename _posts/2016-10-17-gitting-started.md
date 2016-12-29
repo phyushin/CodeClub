@@ -44,6 +44,7 @@ once we've made our changes the home screen should look like this:
 5. Shows a summary
 6. Shows an expanded description
 7. Is the button to commit the latest branch
+8. Push the Sync button 
 
 [1]:https://www.meetup.com/
 [2]:https://github.com
