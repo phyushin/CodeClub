@@ -22,6 +22,9 @@ but back to GitHub ... or more specifically Git <br />
  Git
 ---
 Git is one of many version control systems out there - you may wonder _"why are we using Git instead of [insert other VCS here]>"_ mainly because using Git allows us to use[GitHub][2]
+and the [GitHub desktop client][3]
+
+
 
 [1]:https://www.meetup.com/
 [2]:https://github.com
