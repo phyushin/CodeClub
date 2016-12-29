@@ -60,7 +60,8 @@ So the next thing we're going to do is introduce a Modulo function
 
   one thing you may notice about the code above is that there is no error trapping which is a problem if you enter anything but numbers in the number prompt... adding error trapping will be out _second_ task
 
-hopefully this will be enough to tide you over ... if not try adding factorial ;-)
+hopefully this will be enough to tide you over ... if not try adding _factorial_ ;-)
+
 Pw
 
 [1]:https://www.python.org/
